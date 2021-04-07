@@ -1,0 +1,37 @@
+
+    h1{
+        color:rgb(38, 10, 117)
+        
+    }
+    *{
+        border:solid
+    }
+    .hi{
+        background-color: rgb(77, 170, 34);
+    }
+    .games{
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly
+
+    }
+    .game1{
+        display: flex;
+        background-color: blue
+    }
+    .game2{
+        display: flex;
+        background-color: cadetblue;
+    }
+    .game3{
+        display: flex;
+        background-color: cyan;
+    }
+    p,h2{
+        text-align: center;
+    }
+    .footer{
+        display: flex;
+        justify-content: center;
+        background-color: darkslateblue;
+    }
